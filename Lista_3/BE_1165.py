@@ -1,5 +1,4 @@
 N = int(input())
-
 for i in range(N):
     cousin = int(input())
     count = 0
